@@ -9,7 +9,7 @@
 ## Common
 
 * [Untitled](common/untitled.md)
-* [Boot Up](common/boot-up/README.md)
+* [Startup](common/boot-up/README.md)
   * [Panics](common/boot-up/panics.md)
 
 ## Desktop
